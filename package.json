@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-generator": "6.3.26",
-    "babel-traverse": "6.3.26",
+    "babel-traverse": "6.3.25",
     "babel-types": "6.3.24",
     "babylon": "6.3.26",
     "chalk": "^1.1.1",
